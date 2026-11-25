@@ -1,0 +1,8 @@
+{
+  "name": "ALI PETS",
+  "description": "ALI PETS — سجل الكلاب والجراوي الموثّق في الإسكندرية، مصر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
